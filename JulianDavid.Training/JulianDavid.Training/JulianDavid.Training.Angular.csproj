@@ -40,6 +40,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AngularTest.cs" />
+    <Compile Include="IAngularTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -48,6 +50,9 @@
     <Content Include="angularjs\bootstrap.css" />
     <Content Include="angularjs\test.html" />
     <Content Include="angularjs\todo.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="models\todoApp.json" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
