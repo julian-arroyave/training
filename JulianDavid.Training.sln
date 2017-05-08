@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JulianDavid.Training.Angular", "JulianDavid.Training\JulianDavid.Training.Angular.csproj", "{4D9E74CF-5EA5-4952-991C-5CAF6405AEF5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StaticResources", "StaticResources", "{C5AF1A13-E980-4E8E-9ABA-47FDE065FB38}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Angular2", "Angular2", "{CD9475D4-BEFD-4EA8-B189-B75CE3D4ECD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JulianDavid.Training.Angular2", "JulianDavid.Training.Angular2\JulianDavid.Training.Angular2.csproj", "{C7B98C1C-BBB3-4BB5-8DDC-C2E28DA81107}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D9E74CF-5EA5-4952-991C-5CAF6405AEF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D9E74CF-5EA5-4952-991C-5CAF6405AEF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D9E74CF-5EA5-4952-991C-5CAF6405AEF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D9E74CF-5EA5-4952-991C-5CAF6405AEF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7B98C1C-BBB3-4BB5-8DDC-C2E28DA81107}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7B98C1C-BBB3-4BB5-8DDC-C2E28DA81107}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7B98C1C-BBB3-4BB5-8DDC-C2E28DA81107}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7B98C1C-BBB3-4BB5-8DDC-C2E28DA81107}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C7B98C1C-BBB3-4BB5-8DDC-C2E28DA81107} = {CD9475D4-BEFD-4EA8-B189-B75CE3D4ECD8}
+	EndGlobalSection
+EndGlobal
